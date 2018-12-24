@@ -1,0 +1,47 @@
+﻿GFX  01:30:34.307 ====================================================================================================
+GFX  01:30:34.307 Heroes of the Storm (B66946)
+GFX  01:30:34.307 
+GFX  01:30:34.307 Executable                      C:\Program Files (x86)\Heroes of the Storm\Versions\Base66946\HeroesOfTheStorm_x64.exe
+GFX  01:30:34.307 <Parameters>                    -launch -uid heroes
+GFX  01:30:34.307 Parent Executable               \Device\HarddiskVolume2\Program Files (x86)\Heroes of the Storm\Support64\HeroesSwitcher_x64.exe
+GFX  01:30:34.307 Grandparent Executable          \Device\HarddiskVolume2\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  01:30:34.307 LocalTime                       2018-08-03 01:30:34.307
+GFX  01:30:34.307 <ComputerUser>                  hadmars
+GFX  01:30:34.307 <ComputerName>                  DESKTOP-DELL790
+GFX  01:30:34.307 <Exe.Architecture>              x86_64
+GFX  01:30:34.307 <Version>                       2.35.2.66946
+GFX  01:30:34.307 <DataBuild>                     B66946
+GFX  01:30:34.307 <CodeBranch>                    branches/Heroes.35
+GFX  01:30:34.307 <CodeRevision>                  556537
+GFX  01:30:34.307 <Locale.Assets>                 enUS
+GFX  01:30:34.307 <Locale.Data>                   enUS
+GFX  01:30:34.307 <Locale.Install>                enUS
+GFX  01:30:34.307 <AccountCountry>                
+GFX  01:30:34.307 <AgentVersion>                  2.15.1.6326
+GFX  01:30:34.307 TelemetrySessionId              ABAACE4D-9C17-4249-B8F0-B000E178E857
+GFX  01:30:34.307 ====================================================================================================
+GFX  01:30:34.305 DXGI: Available
+GFX  01:30:34.756 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  01:30:35.625 Adapter "AMD Radeon HD 5450" Vendor 0x4098 Device 0x4098
+GFX  01:30:35.625 Adapter "Microsoft Basic Render Driver" Vendor 0x5140 Device 0x5140
+GFX  01:30:35.625 Skipped adapter "Microsoft Basic Render Driver" because no ouputs
+GFX  01:30:35.625 Attempting D3D11 device creation on "AMD Radeon HD 5450"
+GFX  01:30:35.703 Device creation success.
+GFX  01:30:35.704 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  01:30:35.704 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  01:30:35.704 Initialized D3D11 GraphicsDevice: AMD Radeon HD 5450 (Driver Version: 0.0.0.0, VRAM: 498MB, SVMEM: 3840MB).
+GFX  01:30:35.704 Setting up swap chain.
+GFX  01:30:35.704 Found matching display mode width: 1280 height: 720 RRN: 75 RRD: 1
+GFX  01:30:35.752 Resizing D3D11 swap chain (1280x720)
+GFX  01:30:35.753 Hardware Depth Sampling: Available
+GFX  01:30:41.700 Resource Cache Override Variable: 0MB
+GFX  01:30:41.700 Resource Cache: 2037MB Win64 (8148MB Physical, 9206MB Process Virtual)
+GFX  01:30:41.700 Resource Cache Sound:  203MB 
+GFX  01:30:41.700 Resource Cache Common: 450MB 
+GFX  01:30:41.700 Resource Cache Texture Max: 1500MB 
+GFX  01:30:57.643 PerfNotifiers initialized
+GFX  01:31:01.082 Resource Cache Texture: 450MB 
+GFX  01:31:01.082 Resource Cache Texture Used: 0MB 
+GFX  01:33:35.217 Focus Event. Changing to fullscreen.
+GFX  01:35:16.397 Focus Event. Changing to windowed.
+GFX  01:35:38.315 Focus Event. Changing to fullscreen.
